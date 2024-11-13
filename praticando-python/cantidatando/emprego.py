@@ -1,0 +1,5 @@
+# SE CANDIDATANDO A UM EMPREGO
+
+print('-=-' * 10)
+print('\033[2;35mSE CANDIDATANDO PARA UM EMPREGO\033[m')
+print('-=-' * 10)
